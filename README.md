@@ -1,0 +1,1 @@
+# Algo-Trading-Equal-Weight-SP500
